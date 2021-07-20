@@ -1,0 +1,28 @@
+section
+{
+display: flex;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    font-weight: 900;
+    text-decoration-color: ivory;
+}
+.half-width{
+    width: 50%;
+}
+.hire{
+background-position: center;
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 5px;
+    width: 100px;
+}
+.top{
+    background-image: url(portfolio/topbanner.jpg);
+    background-repeat: none;
+}
+.bottom{ background-image: url(portfolio/downbanner.png);
+         background-repeat: none;
+
+}
