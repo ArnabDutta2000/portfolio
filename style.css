@@ -4,12 +4,16 @@ display: flex;
 }
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
     
     font-weight: 900;
     text-decoration-color: ivory;
 }
 .half-width{
     width: 50%;
+    margin-left: 5%;
+    margin-right:5% ;
+    
     
 }
 .hire{
@@ -54,4 +58,13 @@ background-position: center;
     border-left: 15px;
     border-style: solid;
     border-left-color:salmon;
+}
+
+.aboutme{
+    text-align: center;
+}
+.href
+{
+    text-decoration: none;
+    
 }
