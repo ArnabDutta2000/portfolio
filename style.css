@@ -10,6 +10,7 @@ body{
 }
 .half-width{
     width: 50%;
+    
 }
 .hire{
 background-position: center;
@@ -17,12 +18,40 @@ background-position: center;
     background-color: tomato;
     border-radius: 5px;
     width: 100px;
+    text-decoration-color: ivory;
 }
 .top{
-    background-image: url(portfolio/topbanner.jpg);
+    background-image: url(portfolio/top.jpg);
     background-repeat: none;
 }
 .bottom{ background-image: url(portfolio/downbanner.png);
          background-repeat: none;
 
+}
+.box{
+    background-color: ivory;
+    padding-left:  5%; 
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    height: 60%;
+    border-radius: 10px;
+}
+.box1{
+    box-shadow: darkgrey;
+    border-left: 15px;
+    border-style: solid;
+    border-left-color: sandybrown;
+}
+.box2{
+    box-shadow: darkgrey;
+    border-left: 15px;
+    border-style: solid;
+    border-left-color:salmon;
 }
