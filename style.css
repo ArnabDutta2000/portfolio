@@ -23,6 +23,7 @@ background-position: center;
     border-radius: 5px;
     width: 100px;
     text-decoration-color: ivory;
+    padding: 15px;
 }
 .top{
     background-image: url(portfolio/top.jpg);
@@ -46,6 +47,7 @@ background-position: center;
     width: 40%;
     height: 60%;
     border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
 }
 .box1{
     box-shadow: darkgrey;
@@ -67,4 +69,7 @@ background-position: center;
 {
     text-decoration: none;
     
+}
+.padding{
+    padding-left: 15px;
 }
